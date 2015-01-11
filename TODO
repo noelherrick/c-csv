@@ -1,0 +1,7 @@
+TODO
+
+- Research cleaner parser logic
+- Research data structures in C
+- Run through valgrind
+- Add Unicode support
+- Make into a library
